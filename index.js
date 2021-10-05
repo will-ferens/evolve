@@ -22,8 +22,6 @@ var BCPhotos =
 
 var SFPhotosObject = JSON.parse(SFPhotos);
 var BCPhotosObject = JSON.parse(BCPhotos);
-console.log(SFPhotosObject);
-console.log(BCPhotosObject.BCPhotos.order);
 
 // 1. Make sure all photos that are active in Salesforce are in the Booking.com object
 
